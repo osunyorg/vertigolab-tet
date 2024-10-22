@@ -49,15 +49,23 @@ contents_reading_time:
   text: >-
     1 minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Titre 1
-    slug: "titre-1"
-    position: 1
-    rank: 2
+    slug: >-
+      titre-1
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -78,16 +86,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Titre 2
-    slug: "titre-2"
-    position: 2
-    rank: 2
+    slug: >-
+      titre-2
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -112,6 +127,8 @@ contents:
     template: testimonials
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
     data:
@@ -124,7 +141,6 @@ contents:
 
           job: >-
             Consultant chercheur
-
 
 
 
