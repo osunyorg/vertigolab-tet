@@ -2,6 +2,11 @@
 
 baseURL: https://tet.vertigolab.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: eb5a3e67-4924-4df7-b317-4a49837ca9a0
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
