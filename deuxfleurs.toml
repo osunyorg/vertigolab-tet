@@ -15,58 +15,58 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/agenda/2024-1/12/"
+from = "/agenda/2024-1/12/index.html"
 to = "/agenda/2024/12/"
 
 [[redirects]]
-from = "/agenda/2024-04-11-salon-resolution/"
+from = "/agenda/2024-04-11-salon-resolution/index.html"
 to = "/agenda/2024/salon-resolution/"
 
 [[redirects]]
-from = "/agenda/2024-1/02/"
+from = "/agenda/2024-1/02/index.html"
 to = "/agenda/2024/02/"
 
 [[redirects]]
-from = "/agenda/2024-1/07/"
+from = "/agenda/2024-1/07/index.html"
 to = "/agenda/2024/07/"
 
 [[redirects]]
-from = "/agenda/2024-1/01/"
+from = "/agenda/2024-1/01/index.html"
 to = "/agenda/2024/01/"
 
 [[redirects]]
-from = "/agenda/2024-1/08/"
+from = "/agenda/2024-1/08/index.html"
 to = "/agenda/2024/08/"
 
 [[redirects]]
-from = "/agenda/2024-1/04/"
+from = "/agenda/2024-1/04/index.html"
 to = "/agenda/2024/04/"
 
 [[redirects]]
-from = "/agenda/2024-1/05/"
+from = "/agenda/2024-1/05/index.html"
 to = "/agenda/2024/05/"
 
 [[redirects]]
-from = "/agenda/2024-1/09/"
+from = "/agenda/2024-1/09/index.html"
 to = "/agenda/2024/09/"
 
 [[redirects]]
-from = "/agenda/2024-1/11/"
+from = "/agenda/2024-1/11/index.html"
 to = "/agenda/2024/11/"
 
 [[redirects]]
-from = "/agenda/2024-1/03/"
+from = "/agenda/2024-1/03/index.html"
 to = "/agenda/2024/03/"
 
 [[redirects]]
-from = "/agenda/2024-1/"
+from = "/agenda/2024-1/index.html"
 to = "/agenda/2024/"
 
 [[redirects]]
-from = "/agenda/2024-1/06/"
+from = "/agenda/2024-1/06/index.html"
 to = "/agenda/2024/06/"
 
 [[redirects]]
-from = "/agenda/2024-1/10/"
+from = "/agenda/2024-1/10/index.html"
 to = "/agenda/2024/10/"
 
